@@ -4,11 +4,11 @@ addEventListener("fetch", (event) => {
 });
 
 const routes = {
-  "docker.hub.lynn404.com": "https://registry-1.docker.io",
-  "quay.hub.lynn404.com": "https://quay.io",
-  "gcr.hub.lynn404.com": "https://k8s.gcr.io",
-  "k8s-gcr.hub.lynn404.com": "https://k8s.gcr.io",
-  "ghcr.hub.lynn404.com": "https://ghcr.io",
+  "docker.lynn404.com": "https://registry-1.docker.io",
+  "quay.lynn404.com": "https://quay.io",
+  "gcr.lynn404.com": "https://k8s.gcr.io",
+  "k8s-gcr.lynn404.com": "https://k8s.gcr.io",
+  "ghcr.lynn404.com": "https://ghcr.io",
 };
 
 
